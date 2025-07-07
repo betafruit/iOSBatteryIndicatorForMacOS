@@ -30,5 +30,5 @@
 <p>Instead, press "Done" and head over to <b>System Settings > Privacy and Security</b>. Scroll to the bottom of the page, where you should see an alert that allows you to open the app.</p>
 <i>While you're here, I recommend setting your computer to allow applications from the App Store and Known Developers to make your future life easier.</i>
 </div>
-<br/><p>Now you can head to your control centre settings and remove the default icon from the menu bar. Then, you can hold control and drag the iOS battery icon over to  where the old icon was.</p>
+<br/><p>Now you can head to your control centre settings and remove the default icon from the menu bar. Then, you can hold command and drag the iOS battery icon over to  where the old icon was.</p>
 <p>You’re all set! If you want, you can move the app to your Applications folder so you don’t lose it. Otherwise, enjoy!</p>
