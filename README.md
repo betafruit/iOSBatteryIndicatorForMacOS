@@ -1,11 +1,13 @@
-<h1>iOS Battery Indicator</h1>
+<h1><img width="55" src="https://github.com/user-attachments/assets/e498a079-12c5-444d-8cfa-38ecf71da5a4"/> iOS Battery Indicator</h1>
+<p>The iPhone Battery Indicator for your Menu Bar: perfectly compact and elagantly familiar.</p>
 
 <div>
-  <p>The iPhone Battery Indicator for your Menu Bar: perfectly compact and elagantly familiar.</p>
   <h3>Features:</h3>
   <ul>
     <li>iOS-faithful look and behaviour</li>
+    <img width="100" src="https://github.com/user-attachments/assets/da68a3c3-42f5-48e1-9d65-fbd4a3a2aa0e"/>
     <li>MacOS-faithful "plugged in but not charging" icon</li>
+    <img width="100" src="https://github.com/user-attachments/assets/c1bf66f2-9df9-4ff9-9b0b-93eb1e9fbc8d"/>
     <li>Can be set as login item</li>
     <li>Four different colour modes
       <ul>
